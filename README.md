@@ -4,6 +4,7 @@ node-xmpp-logo
 Logo proposals for [node-xmpp](https://github.com/node-xmpp)
 
 
+
 ![Stencil](http://node-xmpp.github.io/logo/stencil.svg)
 
 
